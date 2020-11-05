@@ -52,7 +52,7 @@ function Home() {
             id="90829332"
             title="PS4 1TB Slim Bundled with Spider-Man, GTaSport, Ratchet & Clank And PSN 3Month"
             price={ 27990.00}
-            rating={4}
+            rating={3}
             image="https://images-na.ssl-images-amazon.com/images/I/71%2BA7WnJDWL._SL1500_.jpg"
           />
            </div>
@@ -62,7 +62,7 @@ function Home() {
            
 
         </div>
-    )
-}
+    );
+}; 
 
 export default Home
